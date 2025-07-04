@@ -1,14 +1,1 @@
-
-import React from 'react';
-import ReactDOM from 'react-dom/client';
-
-const App = () => {
-  return (
-    <div>
-      <h1>OTS App Final Version Live</h1>
-    </div>
-  );
-};
-
-const root = ReactDOM.createRoot(document.getElementById('root'));
-root.render(<App />);
+import React from 'react'; import ReactDOM from 'react-dom'; import App from './App'; ReactDOM.render(<App />, document.getElementById('root'));
