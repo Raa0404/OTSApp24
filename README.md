@@ -1,2 +1,3 @@
 # OTS Settlement App
-This is a production-ready version including React scripts.
+
+This is the production-ready version of the OTS App.

@@ -1,7 +1,14 @@
+
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 
-const App = () => <h1>OTS Final App - React Scripts Included</h1>;
+const App = () => {
+  return (
+    <div>
+      <h1>OTS App Final Version Live</h1>
+    </div>
+  );
+};
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(<App />);
